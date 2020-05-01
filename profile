@@ -1,0 +1,18 @@
+alias updbash="source ~/.bash_profile"
+alias opnbash="code ~/.bash_profile"
+
+alias g="cd"
+alias o="code"
+alias c="clear"
+
+alias gtaa="git add ."
+alias gta="git add"
+alias gtcm="git commit -m"
+alias gtc="git checkout"
+alias gtf="git fetch"
+alias gtl="git log"
+alias gtpl="git pull"
+alias gtr="git rebase -i head-20"
+alias gtsq="git rebase -i head-20"
+alias gtra="git rebase --abort"
+alias gts="git status"
